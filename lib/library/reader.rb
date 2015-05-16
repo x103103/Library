@@ -22,6 +22,5 @@ module Library
       @count_orders = @count_orders + 1
     end
 
-
   end
 end
